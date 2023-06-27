@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/reshavthkr" target="blank"><img src="https://img.shields.io/twitter/follow/reshavthkr?logo=twitter&style=for-the-badge" alt="reshavthkr" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **reshavthkr@gmail.com**
 
